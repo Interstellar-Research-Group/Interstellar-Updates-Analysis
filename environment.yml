@@ -1,4 +1,4 @@
-name: plant-b-simulation
+name: interstellar-updates
 channels:
   - conda-forge
   - defaults
@@ -14,6 +14,7 @@ dependencies:
   - flake8-import-order
   - nbqa
   - pydocstyle
+  - pymysql
 
 # Libraries for interactive computing
   - ipython
